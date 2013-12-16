@@ -30,6 +30,7 @@ PRODUCT_PACKAGES := \
     HTMLViewer \
     Home \
     KeyChain \
+    LatinIME \
     MediaProvider \
     PackageInstaller \
     PicoTts \
