@@ -23,7 +23,6 @@ PRODUCT_PACKAGES := \
     Apollo \
     AlarmProvider \
     Bluetooth \
-    Calculator \
     Calendar \
     CertInstaller \
     DeskClock \
