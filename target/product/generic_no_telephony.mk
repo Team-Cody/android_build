@@ -20,18 +20,14 @@
 PRODUCT_POLICY := android.policy_phone
 
 PRODUCT_PACKAGES := \
-    Apollo \
     AlarmProvider \
     Bluetooth \
     Calendar \
     CertInstaller \
     DeskClock \
     DrmProvider \
-    Email \
-    Exchange \
     Gallery2 \
     Launcher2 \
-    LatinIME \
     Provision \
     Phone \
     QuickSearchBox \
